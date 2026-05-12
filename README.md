@@ -1,2 +1,3 @@
 # -Entrega-Pr-ctica-5-Imatge-STM-d-una-mol-cula
 entrega pràctica 5 de VMD d'una molecula de butà
+Per aquesta practica he creat una molecula de butà usant VMD, ja que la meva molècula obtimitzada donava error. He vist després de mirar els eigenvalues que el LUMO es troba sobre els 3V, i el HOMO sobre els -5V. degut a això, fet servir els fitxers .cube de -3V i de 6V, degut a que aquests agafen pocs estats positius i negatius i extret diferents imatges en X,Y i Z amb la seva escala de color per poder veure la densitat electrònica. degut a que no es una molècula plana, en alguns plans ha fet falta buscar dues imatges, una per la part superior i una per la inferior, per així aconseguir imatges amb sentit.
